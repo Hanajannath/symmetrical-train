@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "hello my dear friends";
 ```
+- [ ] Turn on Github pages
+- [ ] Outline my portflio
+- [ ] Introduce myself to the world
